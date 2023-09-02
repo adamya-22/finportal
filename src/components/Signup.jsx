@@ -125,7 +125,7 @@ const SignupPage = () => {
           <input
             type="password"
             id="confirm-password"
-            placeholder="Confirm Password"
+            placeholder="Confirm PasSword"
             required
           />  
         </div>
